@@ -1,0 +1,8 @@
+**pycache**/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+.vscode/
+expenses.db
